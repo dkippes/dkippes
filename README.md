@@ -28,8 +28,8 @@
 <details><summary><b>Projects:</b></summary>
 
 <ul>
-	<li><h2><a target="_blank" href="https://github.com/Evaristodantur/BierClub">---> BierClub</a></h2></li>
-	<li><h2><a target="_blank" href="https://github.com/dkippes/Adm-Presupuesto-Personal">---> Administrative Budget APP</a></h2></li>
+	<li><h3><a target="_blank" href="https://github.com/Evaristodantur/BierClub">---> BierClub</a></h3></li>
+	<li><h3><a target="_blank" href="https://github.com/dkippes/Adm-Presupuesto-Personal">---> Administrative Budget APP</a></h3></li>
 </ul>
 
     

@@ -16,7 +16,7 @@
 **Currently working with:**
 <div align="center">
 	<h2>Currently working with:</h2>
-	<img title="JavaScript" alt="JavaScript" src="https://image.flaticon.com/icons/png/512/919/919828.png" width="40" height="40" />
+	<img title="JavaScript" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="40" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="https://miro.medium.com/max/554/1*42aKSdKAWZ3VtqT5ICd82w.png" width="40" height="40" />	
   	<img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
   	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />

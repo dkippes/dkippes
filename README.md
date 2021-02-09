@@ -3,7 +3,7 @@
   <h4>Hi, I'm Diego Kippes! I love building differents apps and I'm working on lading my first Dev Job. Currently, I'm doing FullStack JavaScript apps.</h4>
 </div>
 
-  <img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
+  <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkippes&show_icons=true&theme=midnight-purple" />
   
 - 🔭 I’m currently working on [BierClub](https://github.com/Evaristodantur/BierClub) and [Personal Project](https://github.com/dkippes/Adm-Presupuesto-Personal)
 - 🌱 I’m currently learning React.Js
@@ -12,8 +12,6 @@
 - 📫 How to reach me: kippes.diego@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1eOLaxy0UuDIx-TUGBiNzYIkijFyVZ7hi/view?usp=sharing)
 
-
-**Currently working with:**
 <div align="center">
 	<h2>Currently working with:</h2>
 	<img title="JavaScript" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="40" height="40" />
@@ -32,10 +30,17 @@
   
 </div>
   
-<details><summary><b>My Projects:</b></summary>
+<details><summary><b>Projects:</b></summary>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium 1"></img></a>
+<div>
+	<h2>hpña</h2>
+	<a target="_blank" href="https://github.com/Evaristodantur/BierClub"><img src="https://github.com/Evaristodantur/BierClub/blob/master/BierClub-Page/src/public/images/home/banner.jpg?raw=true" alt="BierClub" width="50%" height="50%"></a>
+</div>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1" alt="Recent Article on medium 2"></img></a>   
+
+<div>
+	<h2>hpña</h2>
+	<a target="_blank" href="https://github.com/Evaristodantur/BierClub"><img src="https://github.com/Evaristodantur/BierClub/blob/master/BierClub-Page/src/public/images/home/banner.jpg?raw=true" alt="BierClub" width="50%" height="50%"></a>
+</div>
     
 </details>  

@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-![dkippesReadMe](https://user-images.githubusercontent.com/61224068/107314037-972c2200-6a72-11eb-8497-53c8102189c6.jpg)
+  <img src="https://user-images.githubusercontent.com/61224068/107314037-972c2200-6a72-11eb-8497-53c8102189c6.jpg">
+
 </div>
 
 

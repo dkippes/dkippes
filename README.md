@@ -10,10 +10,11 @@
 - 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)
 - 💬 Ask me about anything
 - 📫 How to reach me: kippes.diego@gmail.com
-- [Resume](https://drive.google.com/file/d/1eOLaxy0UuDIx-TUGBiNzYIkijFyVZ7hi/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1eOLaxy0UuDIx-TUGBiNzYIkijFyVZ7hi/view?usp=sharing)
 
 
 **Currently working with:**
+<div align="right">
 	<img title="JavaScript" alt="JavaScript" src="https://image.flaticon.com/icons/png/512/919/919828.png" width="40" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="https://miro.medium.com/max/554/1*42aKSdKAWZ3VtqT5ICd82w.png" width="40" height="40" />	
   <img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
@@ -22,14 +23,12 @@
 	<img title="Visual Studio Code" alt="Visual Studio Code" src="https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://github.com/hussainweb/hussainweb/raw/main/icons/git.png" width="40" height="40" />
   <img title="Postman" alt="Postman" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40" />
-  
+  </div>
 	
 **Learning:**
-  <img title="NodeJS" alt="NodeJS" src="https://miro.medium.com/max/554/1*42aKSdKAWZ3VtqT5ICd82w.png" width="40" height="40" />	
-  <img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
-  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
+<div align="right">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-  
+</div>
   
 <details><summary><b>My Projects:</b></summary>
 

@@ -2,20 +2,16 @@
   <img src="https://user-images.githubusercontent.com/61224068/107318448-8e8c1980-6a7b-11eb-9f36-526b95e18def.gif"/>
   <h4>Hi, I'm Diego Kippes! I love building differents apps and I'm working on lading my first Dev Job. Currently, I'm doing FullStack JavaScript apps.</h4>
 </div>
+
+  <img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
   
-<div display="flex">
-  <div width="50%">
-    - 🔭 I’m currently working on [BierClub](https://github.com/Evaristodantur/BierClub) and [Personal Project](https://github.com/dkippes/Adm-Presupuesto-Personal)
+- 🔭 I’m currently working on [BierClub](https://github.com/Evaristodantur/BierClub) and [Personal Project](https://github.com/dkippes/Adm-Presupuesto-Personal)
 - 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)
 - 💬 Ask me about anything
 - 📫 How to reach me: kippes.diego@gmail.com
 - [Resume](https://drive.google.com/file/d/1eOLaxy0UuDIx-TUGBiNzYIkijFyVZ7hi/view?usp=sharing)
-  </div>
-  <div width="50%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
-  </div>
-</div>
+
 
 **Currently working with:**
 	<img title="JavaScript" alt="JavaScript" src="https://image.flaticon.com/icons/png/512/919/919828.png" width="40" height="40" />

@@ -17,7 +17,7 @@
 <div align="center">
 	<h2>Currently working with:</h2>
 	<img title="JavaScript" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="40" height="40" />
-	<img title="NodeJS" alt="NodeJS" src="https://miro.medium.com/max/554/1*42aKSdKAWZ3VtqT5ICd82w.png" width="40" height="40" />	
+	<img title="NodeJS" alt="NodeJS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="40" height="40" />	
   	<img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
   	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
   	<img title="Scrum" alt="Scrum" src="https://3.bp.blogspot.com/-Plcz3gK2JYE/V2Ff_DYiz6I/AAAAAAAABoU/J4s2dDBVjW8HbZ70tlVPeLdQsJ1NzyM4ACLcB/s1600/agile-icon.png" width="40" height="40" />

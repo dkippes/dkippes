@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61224068/107314037-972c2200-6a72-11eb-8497-53c8102189c6.jpg">
+  <img src="https://user-images.githubusercontent.com/61224068/107318448-8e8c1980-6a7b-11eb-9f36-526b95e18def.gif">
 </div>
   Hi, I'm Diego! I love building differents apps and I'm working on lading my first Dev Job.
   I work mostly with NodeJs (REST API), EJS, React.Js and MySql :D !

@@ -43,7 +43,9 @@
 	</a>  	
  </div>
  <br>
-<details><summary><b>Projects:</b></summary>
+
+
+<img title="Projects" alt="Projects" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/project-2100897-1762865.png" width="40" height="40" /><details><summary><h3>Projects:</h3></summary>
 
 <ul>
 	<li><h3><a target="_blank" href="https://github.com/Evaristodantur/BierClub">---> BierClub</a></h3></li>

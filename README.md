@@ -5,8 +5,10 @@
   <h4>Hi, I'm Diego Kippes! I love building differents apps and I'm working on lading my first Dev Job. Currently, I'm doing FullStack JavaScript apps.</h4>
 </div>
 
-  <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkippes&show_icons=true&theme=midnight-purple" />
-  
+<a href="#">
+	<img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkippes&show_icons=true&theme=midnight-purple" />
+</a>
+
 - 🔭 I’m currently working on [BierClub](https://github.com/Evaristodantur/BierClub) and [Personal Project](https://github.com/dkippes/Adm-Presupuesto-Personal)
 - 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)

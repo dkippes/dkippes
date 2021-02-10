@@ -43,7 +43,10 @@
 	</a>  	
  </div>
  <br>
-<img title="Projects" alt="Projects" src="https://user-images.githubusercontent.com/61224068/107501557-51588200-6b76-11eb-954e-9558d612e844.gif" width="150" height="100" />
+<a href="#">
+	<img title="Projects" alt="Projects" src="https://user-images.githubusercontent.com/61224068/107501557-51588200-6b76-11eb-954e-9558d612e844.gif" width="150" height="100" />
+</a>
+
 <details>
 	<summary>
 		<b>Here!</b>

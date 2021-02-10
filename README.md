@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61224068/107318448-8e8c1980-6a7b-11eb-9f36-526b95e18def.gif"/>
+	<a href="#">
+		<img src="https://user-images.githubusercontent.com/61224068/107318448-8e8c1980-6a7b-11eb-9f36-526b95e18def.gif"/>
+	</a>
   <h4>Hi, I'm Diego Kippes! I love building differents apps and I'm working on lading my first Dev Job. Currently, I'm doing FullStack JavaScript apps.</h4>
 </div>
 

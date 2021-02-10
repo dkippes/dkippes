@@ -38,7 +38,7 @@
 	<a href="https://git-scm.com/"> 
 		<img title="Git" alt="Git" src="https://github.com/hussainweb/hussainweb/raw/main/icons/git.png" width="40" height="40" />	
 	</a>
-	<a href="https://www.postman.com/"> 
+	<a href="https://www.postman.com/">
 		<img title="Postman" alt="Postman" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40" />
 	</a>  	
  </div>
@@ -47,10 +47,12 @@
 
 <details>
 	<summary>
-		<h3>
-			<img title="Projects" alt="Projects" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/project-2100897-1762865.png" width="40" height="40" />
+		<b>	
+			<a href="#">
+				<img title="Projects" alt="Projects" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/project-2100897-1762865.png" width="40" height="40" />
+			</a>	
 			Projects:
-		</h3>
+		</b>
 	</summary>
 
 <ul>

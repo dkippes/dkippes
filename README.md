@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)
 - 💬 Ask me about anything
 - 📫 How to reach me: kippes.diego@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1eOLaxy0UuDIx-TUGBiNzYIkijFyVZ7hi/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1aku8FOD9nVQAnC4BWl-caejBGBJmDNqC/view?usp=sharing)
 
 <div align="center">
 	<h2>Currently working with:</h2>

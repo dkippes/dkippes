@@ -27,6 +27,9 @@
 	<a href="https://reactjs.org/"> 
 		<img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
 	</a>
+	<a href="https://www.mongodb.com/"> 
+		<img title="MongoDB" alt="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" width="40" height="40" />
+	</a>
 	<a href="https://www.mysql.com/"> 
 		<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	</a>

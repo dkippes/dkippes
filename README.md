@@ -54,6 +54,12 @@
 	<a href="https://www.python.org/"> 
 		<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	</a>
+	<a href="https://en.wikipedia.org/wiki/Kubernetes"> 
+		<img title="Kubernetes " alt="Kubernetes " src="https://cdn2.iconfinder.com/data/icons/mixd/512/20_kubernetes-512.png" width="40" height="40" />
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Docker_(software)"> 
+		<img title="Docker " alt="Docker " src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" width="40" height="40" />
+	</a>
  </div>
  <br>
 <a href="#">

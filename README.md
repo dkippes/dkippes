@@ -2,14 +2,14 @@
 	<a href="#">
 		<img src="https://user-images.githubusercontent.com/61224068/107318448-8e8c1980-6a7b-11eb-9f36-526b95e18def.gif"/>
 	</a>
-  <h4>Hi, I'm Diego Kippes! I love build differents apps and I'm working on lading my first Dev Job. Currently, I'm doing FullStack JavaScript apps.</h4>
+  <h4>Hi, I'm Diego Kippes! I love build differents apps.</h4>
 </div>
 
 <a href="#">
 	<img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkippes&show_icons=true&theme=midnight-purple" />
 </a>
 
-- 🔭 I’m currently working on IncluIT + side projects when I have time in my hands.
+- 🔭 I’m currently working on MercadoLibre + side projects when I have time in my hands.
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)
 - 💬 Ask me about anything

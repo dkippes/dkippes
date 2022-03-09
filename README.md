@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on MercadoLibre + side projects when I have time in my hands.
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on anyone who wants to learn and superpass challenges (or building an App haha)
-- 💬 Ask me about anything
 - 📫 How to reach me: kippes.diego@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1aku8FOD9nVQAnC4BWl-caejBGBJmDNqC/view?usp=sharing)
 

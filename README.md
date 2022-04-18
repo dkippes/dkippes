@@ -15,7 +15,7 @@
 - 📝 [Resume](https://drive.google.com/file/d/1aku8FOD9nVQAnC4BWl-caejBGBJmDNqC/view?usp=sharing)
 
 <div align="left">
-	<h2>Currently working with:</h2>
+	<h2>Currently working with: </h2>
 	<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
 		<img title="Java" alt="Java" src="https://image.flaticon.com/icons/png/512/226/226777.png" width="40" height="40" />
 	</a>

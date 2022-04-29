@@ -9,7 +9,7 @@
 	<img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkippes&show_icons=true&theme=midnight-purple" />
 </a>
 
-- 🔭 I’m currently working on MercadoLibre + side projects when I have time in my hands.
+- 🔭 I’m currently working on side projects when I have time in my hands.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: kippes.diego@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1aku8FOD9nVQAnC4BWl-caejBGBJmDNqC/view?usp=sharing)

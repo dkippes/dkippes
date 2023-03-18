@@ -42,7 +42,7 @@
 	</a>  	
  </div>
  <div align="left">
-	<h2>Other programming languages/tools that I know: </h2>
+	<h2>Other programming languages/tools that I Use: </h2>
 	<a href="https://reactjs.org/"> 
 		<img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
 	</a>

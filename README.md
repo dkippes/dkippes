@@ -18,14 +18,16 @@
 
 **Main**
 - Java · Spring Boot  
-- SQL (MySQL / SQL Server)  
-- Git · REST APIs  
+- SQL (MySQL · SQL Server)  
+- REST APIs  
+- Git · Gradle / Maven  
 
 **Also worked with**
 - JavaScript · Node.js · React  
 - Docker · Kubernetes  
 - MongoDB  
 - Python  
+- SonarQube · Postman  
 
 ---
 
